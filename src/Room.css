@@ -1,0 +1,13 @@
+.room{
+    height: 100vh;
+}
+
+.on{
+    background-color: white;
+    color: purple;
+}
+
+.off{
+    background-color: black;
+    color: yellow;
+}
